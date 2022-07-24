@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/ManishKumar-11">
   
-  <img align="left" width="150" height="150"<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a></p>
+ <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a></p>
 
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
