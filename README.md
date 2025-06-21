@@ -32,7 +32,7 @@ Online exam and course platform developed using PHP & MySQL
 ## 📫 Let's Connect!
 
 - 📧 Email: [manishk.110399@gmail.com](mailto:manishk.110399@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/manishkumar]([[https://](https://www.linkedin.com/in/real-manish-kumar-o7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andro)) * 
+- 💼 LinkedIn: (https://www.linkedin.com/in/real-manish-kumar-o7) * 
 - 🌐 Portfolio: Coming Soon...
 
 --
