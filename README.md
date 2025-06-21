@@ -10,5 +10,31 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://">manish.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Tinkering with interactions on <a href="https://codepen.io/manish"> Codepen</a> 🏓
+
+
+## 🛠 Projects
+
+### 🎯 College Test Website  
+Online exam and course platform developed using PHP & MySQL  
+🔗 *Team Project | Duration: 1 Day | Stack: PHP, WAMP, SQL*
+
+---
+
+## 📄 Certifications & Workshops
+
+- ✅ 4-day Python Workshop by APSDC  
+- ✅ Ethical Hacking. 
+- ✅ Industrial Training at ASCET
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [manishk.110399@gmail.com](mailto:manishk.110399@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/manishkumar]([[https://](https://www.linkedin.com/in/real-manish-kumar-o7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andro)) * 
+- 🌐 Portfolio: Coming Soon...
+
+--
+
+> ✨ “Keen Learner, Positive Attitude & Deep Analysis” – that’s my mantra.
